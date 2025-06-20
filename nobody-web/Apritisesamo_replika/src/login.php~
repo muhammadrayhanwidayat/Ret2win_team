@@ -1,0 +1,29 @@
+<?php
+// Flag tidak ditampilkan di source code
+// if(isset($_POST['username']) && isset($_POST['pwd']))
+if(isset($_POST[base64_decode("\144\x58\x4e\154\x63\x6d\65\150\x62\x57\x55\x3d")]) && isset($_POST[base64_decode("\160\167\x64")]))
+{
+    // $user = $_POST['username'];
+    $user = $_POST[base64_decode("\144\x58\x4e\x6c\143\155\x35\x68\x62\x57\x55\x3d")];
+    // $pass = $_POST['pwd'];
+    $pass = $_POST[base64_decode("\x70\x77\144")];
+
+    if (is_array($user) || is_array($pass)) {
+        echo "<h1>Login Gagal!</h1><p>Input gaboleh array bro!</p>";
+        die();
+    }
+    
+    if($user !== $pass)
+    {
+        if(md5($user) == md5($pass))
+        {
+            // echo $flag;
+            echo file_get_contents(base64_decode("\146\x6c\x61\147"));
+        }
+        else
+        {
+            echo "<h1>Login Gagal!</h1><p>Kombinasi salah.</p>";
+        }
+    }
+}
+?>

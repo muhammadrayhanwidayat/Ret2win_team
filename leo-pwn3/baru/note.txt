@@ -1,0 +1,4 @@
+saat jalankan di server peserta harus dapat libc dari server
+di dalam folder backup itu libc yang saya punya jadi kalau saya jadi server ya itu
+
+jalankan dengan socat TCP-LISTEN:1234,reuseaddr,fork EXEC:./vuln

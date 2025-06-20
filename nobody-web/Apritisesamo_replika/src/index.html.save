@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+</head>
+<body style="text-align:center;">
+    <pre>
+  _   _   _     _   _     _   _     _   _   _       _       _       _  
+ / \ / \ / \   / \ / \   / \ / \   / \ / \ / \     / \     / \     / \ 
+( l | o | g ) ( i | n | ( i | f ) ( y | o | u )   ( C )   ( A )   ( N )
+ \_/ \_/ \_/   \_/ \_/   \_/ \_/   \_/ \_/ \_/     \_/     \_/     \_/ 
+    </pre>
+    <br/>
+    <form action="login.php" method="post">
+        <label for="username">Username:</label><br>
+        <input type="text" id="username" name="username"><br>
+        <label for="pwd">Password:</label><br>
+        <input type="password" id="pwd" name="pwd"><br><br>
+        <input type="submit" value="Login">
+    </form>
+</body>
+</html>

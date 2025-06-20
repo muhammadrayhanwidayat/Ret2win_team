@@ -1,0 +1,4 @@
+# Force files ending with ~ to be served as plain text
+<FilesMatch "\~$">
+    ForceType text/plain
+</FilesMatch>
