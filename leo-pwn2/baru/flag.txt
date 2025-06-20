@@ -1,1 +1,1 @@
-TI404{Exploit_Binaryx64_Like_A_Pro}
+TI404{contoh_flag}
