@@ -8,7 +8,7 @@ Repository ini berisi berbagai challenge yang dibuat dan dikumpulkan oleh:
 
 Di dalam folder ini terdapat beberapa sub-direktori untuk challenge berikut:
 
-* `leo-pwn1`, `leo-pwn2`, `leo-pwn3`: Challenge dan catatan PWN/Exploit by Leo
+* `leo-pwn1`, `leo-pwn2`, `leo-pwn3`: Challenge dan catatan PWN(binary exploitation) by Leo
 * `Apritisesamo_replika`,`SSTI2_replika`,`nosanity_replika`: Challenge web security dan setup Docker oleh Nobody
 
 
