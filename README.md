@@ -1,6 +1,5 @@
-# Kumpulan Challenge Security
 
-Repository ini berisi berbagai challenge dan exploit yang dibuat dan dikumpulkan oleh:
+Repository ini berisi berbagai challenge yang dibuat dan dikumpulkan oleh:
 
 * **Leo**
 * **Nobody**
@@ -18,6 +17,8 @@ Jika ingin berdiskusi atau berkolaborasi lebih lanjut, silakan hubungi melalui D
 > **Discord:** leozhong9_
 > **Discord:** sangkucheng
 
+
+cttn: file solver akan diberikan jika diminta
 ---
 
 *Terima kasih telah berkunjung!*
