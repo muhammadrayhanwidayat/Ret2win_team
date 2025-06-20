@@ -14,8 +14,8 @@ Di dalam folder ini terdapat beberapa sub-direktori untuk challenge berikut:
 
 Jika ingin berdiskusi atau berkolaborasi lebih lanjut, silakan hubungi melalui Discord:
 
-> **Discord:** leozhong9_
-> **Discord:** sangkucheng
+**Discord:** leozhong9_
+**Discord:** sangkucheng
 
 
 cttn: file solver akan diberikan jika diminta
